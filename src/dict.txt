@@ -1,0 +1,10 @@
+!lernu
+
+# ответ == вопрос # комментарий
+
+minaci == болезнь # Malsano minacas min.
+insidi == подстерегать, делать засаду, заговор # Tiu vulpo insidas por kapti leporon.
+prosperi == иметь успех#Al ni solaj prosperis ne perdi monon.
+pasio == азарт, пыл, страсть #Lia sola pasio estas kantado. 
+piediranto == пешеход
+furioza == яростный, бешеный, неистовый# Li ne eltenis kaj eksplodis per furioza rido.
