@@ -1,4 +1,4 @@
-# -*- coding: utf8 -*-
+# -*- coding: utf-8 -*-
 
 import sys
 from string import strip
@@ -64,7 +64,7 @@ def test(n):
     if n in variants:
         correct = variants.index(n)
     else:
-        correct =choice(range(settings["varNum"]))
+        correct = choice(range(settings["varNum"]))
         variants[correct] = n
     print
     print "Question: %s" % src.questions[n]
